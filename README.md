@@ -1,22 +1,7 @@
-### Welcome to my github page 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20github%20page&animation=twinkling&fontAlignY=40&fontAlign=70&height=250)
 
-<!--
-**hyo-4/hyo-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-4&show_icons=true&theme=radical) 
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20github%20page%20&animation=twinkling&fontAlignY=40&fontAlign=70&height=250)
-
-<p style="text-align: center;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-4&show_icons=true&theme=radical)
-  </p>
