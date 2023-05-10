@@ -16,3 +16,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-4&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hyo-4&show_icons=true&theme=radical">
 </div>
+
+<div>
+
+📝 <I>[VLOG](https://velog.io/@seungyo)</I>  
+</div>
