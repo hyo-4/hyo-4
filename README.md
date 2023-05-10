@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Seunghyo%20&animation=twinkling&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20&animation=twinkling&fontAlignY=40&fontAlign=70&height=250)
 
 <div align= "center"><b>🐰꾸준히 성장하는 프론트엔드 개발자🐰</b></div>
 
