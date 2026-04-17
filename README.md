@@ -11,7 +11,7 @@
 <a target="_blank" href = "https://velog.io/@seungyo">![blog](https://img.shields.io/badge/click-20C997.svg?style=flat-square&logo=velog&logoColor=white)</a>
 
 </div>
-    🎓 Sookmyung Women's University(2020.3~)
+    🎓 Sookmyung Women's University(2020.3~2026.02)
     <br/>
     📝 Department of Computer Science
     <br/>
@@ -53,19 +53,20 @@
 ---
 
 #### Experience
-
 - GDSC Sookmyung(2023-2024)
 - KAIST 몰입캠프(2023.12~2024.1)
 - 한국대학생경영IT학회 KUSITUM 29기 (2024)
 - (주)인스피리오 - 프론트엔드 학교 연계 인턴 (2024)
 - (주) 파이퀀트 프론트엔드 개발 인턴(2024)
+- (주) 구름 풀스택 엔지니어 인턴(2025)
+- 삼성청년SW·AI아카데미(SSAFY) 15기 (2026 ~ now)
 
 ---
 
 #### Projects
 
 <details close> 
-  <summary>편지 아카이빙 서비스 웹 '레터링' [ 2024.08 ~ now ] </summary>  
+  <summary>편지 아카이빙 서비스 웹 '레터링' [ 2024.08 ~ 2025.08 ] </summary>  
   &nbsp;&nbsp;&nbsp; <br/>
 
 </details>
